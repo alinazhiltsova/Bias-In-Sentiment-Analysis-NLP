@@ -5,7 +5,7 @@ Here you can find some code that I used for bias mitigation in lexicon based sen
 
 Files here:
 
-##1 French WordList Final Aug5
+**1 French WordList Final Aug5**
 
 In this file I collect synsets (in this case cognate pairs) fur further analysis.
 
